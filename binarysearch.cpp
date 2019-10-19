@@ -24,4 +24,3 @@ int start=0,end=size(nums)-1;
 			return -1;
         
     		}
-};
