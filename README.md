@@ -1,3 +1,3 @@
 Leetcode #1
 
-Binary Search Algorithm for Sorted Array.
+<a href="https://leetcode.com/problems/binary-search/Binary"> Search Algorithm for Sorted Array. </a>
