@@ -4,7 +4,7 @@ public:
         int left=0,right=1;
 
   
-        while (A[left]<A[right])
+        while (A[left] < A[right])
         {
             left++;
             right++;
