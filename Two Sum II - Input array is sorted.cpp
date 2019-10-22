@@ -1,4 +1,4 @@
-int i,x=0,y=size(numbers)-1,r;
+int x=0,y=size(numbers)-1,r;
         
         while (numbers[x] + numbers[y] != target)
         {
