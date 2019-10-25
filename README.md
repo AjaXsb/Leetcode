@@ -6,3 +6,6 @@ Leetcode #2
 
 Leetcode #3
 <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"> Two Sum II - Input array is sorted. </a>
+
+Leetcode #4
+<a href="https://leetcode.com/problems/reverse-integer/"> Reverse Integer. </a>
