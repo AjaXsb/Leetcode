@@ -9,3 +9,6 @@ Leetcode #3
 
 Leetcode #4
 <a href="https://leetcode.com/problems/reverse-integer/"> Reverse Integer. </a>
+
+Leetcode #5
+<a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/"> Remove Duplicates from an Array </a>
