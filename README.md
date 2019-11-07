@@ -12,3 +12,6 @@ Leetcode #4
 
 Leetcode #5
 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/"> Remove Duplicates from an Array </a>
+
+Leetcode #6
+<a href="https://leetcode.com/problems/middle-of-the-linked-list/"> Middle of Linked List </a>
