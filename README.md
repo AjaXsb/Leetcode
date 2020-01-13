@@ -15,3 +15,9 @@ Leetcode #5
 
 Leetcode #6
 <a href="https://leetcode.com/problems/middle-of-the-linked-list/"> Middle of Linked List </a>
+
+Leetcode #7
+Additive Persistence
+
+Leetcode #8
+Multiplicative Persistence
