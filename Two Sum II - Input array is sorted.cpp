@@ -1,4 +1,8 @@
-int x=0,y=size(numbers)-1,r;
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        
+        int x=0,y=size(numbers)-1,r;
         
         while (numbers[x] + numbers[y] != target)
         {
@@ -20,3 +24,6 @@ int x=0,y=size(numbers)-1,r;
         ans.push_back(y);
         
         return ans;
+        
+    }
+};
