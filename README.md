@@ -21,3 +21,12 @@ Leetcode #7
 
 Leetcode #8
 <a href="https://github.com/AjaXsb/Leetcode/blob/master/Multiplicative%20Persistence.cpp"> Multiplicative Persistence </a>
+
+Leetcode #9
+<a href="https://github.com/AjaXsb/Leetcode/blob/master/Palindrome%20integer.py"> Palindrome Integer </a>
+
+Leetcode #10
+<a href="https://github.com/AjaXsb/Leetcode/blob/master/Roll%20number%20generator.py"> Roll number generator </a>
+
+Leetcode #11
+<a href="https://github.com/AjaXsb/Leetcode/blob/master/Roman%20to%20integer.py"> Roman number to integer </a>
