@@ -1,5 +1,5 @@
 Leetcode #1
-<a href="https://leetcode.com/problems/binary-search/"> Search Algorithm for Sorted Array. </a>
+<a href="https://leetcode.com/problems/binary-search/"> Search Algorithm for Sorted Array. </a> → <a href="https://github.com/AjaXsb/Leetcode/blob/master/Binary%20Search.cpp"> Binary Search.cpp</a>
 
 Leetcode #2
 <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/"> Peak Index in a Mountain Array. </a>
