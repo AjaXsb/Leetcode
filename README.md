@@ -30,3 +30,6 @@ Leetcode #10
 
 Leetcode #11
 <a href="https://github.com/AjaXsb/Leetcode/blob/master/Roman%20to%20integer.py"> Roman number to integer </a>
+
+Leetcode #12
+<a href="https://github.com/AjaXsb/Leetcode/blob/master/Permutations_1.py"> Permutations </a>
