@@ -1,5 +1,5 @@
 """
-Esayway in an online exam for new graduates of any discipline to find entry level jobs in their fields.
+You are tasked with generating roll numbers for students for their SATs.
 The website generates the roll number of its registered students with the help of the students application numbers. 
 The process induce a key K for generating an individual roll number. To generate the roll number, each digit in the 
 application number is replaced by the Kth digits that comes after it in the application number. the series of digits 
